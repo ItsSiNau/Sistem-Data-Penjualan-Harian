@@ -1,8 +1,4 @@
-![Uploading Document.svg…]()
-
-sadjajsd
-
-<img width="3224" height="1952" alt="Wp Reze" src="https://github.com/user-attachments/assets/6fe1fdbd-ea81-45f7-b45a-a35850e848db" />
+<img width="248" height="150" alt="Document" src="https://github.com/user-attachments/assets/d6356ff0-954a-45e4-a01d-603309311513" />
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 3224 1952" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
